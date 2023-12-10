@@ -1,0 +1,14 @@
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\bin\Debug\net6.0\CS_Konzole.exe
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\bin\Debug\net6.0\CS_Konzole.deps.json
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\bin\Debug\net6.0\CS_Konzole.runtimeconfig.json
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\bin\Debug\net6.0\CS_Konzole.dll
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\bin\Debug\net6.0\CS_Konzole.pdb
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.AssemblyInfoInputs.cache
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.AssemblyInfo.cs
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.csproj.CoreCompileInputs.cache
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.dll
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\refint\CS_Konzole.dll
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.pdb
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\CS_Konzole.genruntimeconfig.cache
+C:\Users\VolfO\Desktop\DEMO__CSV_ReaderSorter\CS_Konzole\obj\Debug\net6.0\ref\CS_Konzole.dll
